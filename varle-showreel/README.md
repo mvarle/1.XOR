@@ -3,6 +3,12 @@
 15-second motion piece for [varle.dk](https://varle.dk) (Tømrermester Daniel Varle ApS, roofing specialists).
 1920×1080, 60 fps, 8-sample motion blur, original procedural score.
 
+## Deliverables
+
+- `varle_showreel_1080p60.mp4`: the film (H.264, 1920×1080, 60 fps, AAC, −14 LUFS)
+- `styleframes/`: six hero stills plus a grid, for a portfolio page
+- `poster.jpg`: thumbnail frame
+
 ## Concept
 
 One continuous camera move around a single house, structured around the company's own
